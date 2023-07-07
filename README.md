@@ -7,20 +7,20 @@ safe from unwanted content. The bot will provide a network of chat rooms in
 which penalties are automatically applied to all chat rooms on the network. 
 
 ## Features
-- [ ] Kick users
-- [ ] Ban users
-- [ ] Mute users
+- [ ] [Kick users](#kick-users)
+- [ ] [Ban users](#ban-users)
+- [ ] [Mute users](#mute-users)
   - [ ] Permanent mute
   - [ ] Temporary mute
   - [ ] Unmute users
-- [ ] Warn users
-- [ ] User management
+- [ ] [Warn users](#warn-users)
+- [ ] [User management](#user-management)
   - [ ] `Ignore User`
   - [ ] `Unignore User`
   - [ ] `Ignorelist`
-- [ ] CAPTCHA system
+- [ ] [CAPTCHA system](#captcha-system)
   - [ ] Text CAPTCHA
-- [ ] Report system
+- [ ] [Report system](#report-system)
   - [ ] `Mute`
   - [ ] `Kick`
   - [ ] `Ban`
